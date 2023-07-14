@@ -38,6 +38,10 @@ nav {
 .logo {
   height: 5.25rem;
 }
+.moo {
+  height: 10.25rem;
+  width: 6rem;
+}
 
 .login {
   display: flex;
