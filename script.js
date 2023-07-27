@@ -9,7 +9,7 @@
 const account1 = {
   // owner: 'Jonas Schmedtmann',
   owner: 'shire mohamed ibrahim',
-  movements: [9100, -450, -400, 5000, -650, 11330, 17170,-250, 7300],
+  movements: [9100, -450, -350, 5000, -650, 4300,7330, 17170,-250, 7300,-500,650,120,-150],
   interestRate: 1.2, // %
   pin: 1111,
 };
